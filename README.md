@@ -1,2 +1,2 @@
-# portfolioUpdate1
-First update of my Portfolio for the HW assignment
+# Bootstrap-Portfolio
+Week 2 - Home Work
